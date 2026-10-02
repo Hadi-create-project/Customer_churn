@@ -2,7 +2,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-blue) ![Python](https://img.shields.io/badge/Python-XGBoost-yellow) ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellowgreen)
 
-**PDF Dashboard:** [Lihat Ekspor PDF](./dashboard/Telco_Churn_Dashboard.pdf) *(Berfungsi jika reviewer tidak memiliki akses Power BI)*
+**PDF Dashboard:** [Lihat Ekspor PDF](./Telco_Churn_Dashboard.pdf) *(Berfungsi jika reviewer tidak memiliki akses Power BI)*
 
 ---
 
