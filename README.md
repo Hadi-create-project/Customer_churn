@@ -2,8 +2,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-blue) ![Python](https://img.shields.io/badge/Python-XGBoost-yellow) ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellowgreen)
 
-**Presentasi Proyek:** [Lihat Slide Presentasi (Deck)](./Customer_Churn_Analysis_Portfolio_Hadi_Rahman.pdf) *(Ganti ekstensi .pdf/.pptx sesuai nama asli file Anda di repo)*  
-**PDF Dashboard:** [Lihat Ekspor PDF Dashboard](./Customer%20Churn%20Telco.pdf) *(Berfungsi jika reviewer tidak memiliki aplikasi Power BI)*
+**PDF Dashboard:** [Lihat Ekspor PDF Dashboard](./Customer%20Churn%20Telco.pdf) 
 
 ---
 
